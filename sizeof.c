@@ -5,5 +5,5 @@ int main (){
   printf("Size of char data type: %zu\n",sizeof(char));
   printf("Size of int data type: %zu\n",sizeof(int));
   printf("Size of float data type: %zu\n",sizeof(float));
-  printf("Size of double data type: %",sizeof(double));
+  printf("Size of double data type: %zu\n",sizeof(double));
 }
