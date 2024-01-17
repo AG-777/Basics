@@ -1,11 +1,11 @@
 #include <stdio.h>
 int main()
 {
-  char c;
+  int c;
   printf("Enter a character: ");
   c = getchar();
   printf("Entered character: ");
   putchar(c);
   printf("\n");
-  return 0;
+  return 1;
 }
