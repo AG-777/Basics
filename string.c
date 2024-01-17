@@ -7,7 +7,7 @@ int main() {
     printf("Enter a string: ");
 
     // Use scanf to get the string from the user
-    scanf("%4s", myString);
+    scanf("%.4s", myString);
 
     // Display the entered string
     printf("You entered: %s\n", myString);
